@@ -1,4 +1,4 @@
-# Eurasian-Lynx
+# Hyper-Lynx
 Lynx, but with Javascript
 
 Usage:
