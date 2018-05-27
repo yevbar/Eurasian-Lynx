@@ -19,7 +19,8 @@ def close():
     stdscr.keypad(0)
     curses.echo()
     curses.endwin()
-
+c = 'd'
+    
 def setup():
     global bounds
     bounds = (stdscr.getmaxyx())
@@ -27,14 +28,18 @@ def setup():
     window = curses.newwin(bounds[0]-3,bounds[1],3,0)
     topbar.border('|', '|', '_', '_', ' ', ' ', '|', '|')
     topbar.refresh()
+    global c
+    c = topbar.getkey()
     
 init()
 setup()
     
 from time import sleep
 
-sleep(5)
+#sleep(5)
+#stdscr.getkey()
 
 close()
 
 print bounds
+print c
