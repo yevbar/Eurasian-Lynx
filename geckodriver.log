@@ -1,0 +1,261 @@
+1527178481473	geckodriver	INFO	geckodriver 0.20.1
+1527178481480	geckodriver	INFO	Listening on 127.0.0.1:53021
+1527178482517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.Yxm5G9VxZ8cq"
+*** You are running in headless mode.
+1527178482668	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527178482742	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527178482744	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527178482872	Marionette	INFO	Enabled via --marionette
+1527178483650	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527178483804	Marionette	INFO	Listening on port 46701
+1527178483828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527178948217	geckodriver	INFO	geckodriver 0.20.1
+1527178948221	geckodriver	INFO	Listening on 127.0.0.1:56151
+1527178949277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.74w2lPeC9THu"
+*** You are running in headless mode.
+1527178949432	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527178949508	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527178949508	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527178949630	Marionette	INFO	Enabled via --marionette
+1527178950400	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527178950548	Marionette	INFO	Listening on port 41221
+1527178950588	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3746, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /builddir/build/BUILD/mozilla-release-239e434d6d2b8e1e2b697c3416d1e96d48fe98e5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527179507470	geckodriver	INFO	geckodriver 0.20.1
+1527179507474	geckodriver	INFO	Listening on 127.0.0.1:34007
+1527179508537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.6CB3oRR63Kwj"
+*** You are running in headless mode.
+1527179508710	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527179508786	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527179508786	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527179508910	Marionette	INFO	Enabled via --marionette
+1527179509678	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527179509830	Marionette	INFO	Listening on port 39521
+1527179509854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527179577356	geckodriver	INFO	geckodriver 0.20.1
+1527179577363	geckodriver	INFO	Listening on 127.0.0.1:34737
+1527179578414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.9RHN2NwUwXVU"
+*** You are running in headless mode.
+1527179578564	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527179578640	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527179578642	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527179578766	Marionette	INFO	Enabled via --marionette
+1527179579540	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527179579688	Marionette	INFO	Listening on port 44289
+1527179579728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527180062686	geckodriver	INFO	geckodriver 0.20.1
+1527180062693	geckodriver	INFO	Listening on 127.0.0.1:38625
+1527180063745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.YBNxzCIz4hyj"
+*** You are running in headless mode.
+1527180063900	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180063976	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527180063976	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527180064098	Marionette	INFO	Enabled via --marionette
+1527180064888	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180065046	Marionette	INFO	Listening on port 39691
+1527180065056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527180312378	geckodriver	INFO	geckodriver 0.20.1
+1527180312382	geckodriver	INFO	Listening on 127.0.0.1:56165
+1527180313435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.ek0JWSeV5teB"
+*** You are running in headless mode.
+1527180313580	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180313660	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527180313660	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527180313784	Marionette	INFO	Enabled via --marionette
+1527180314550	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180314700	Marionette	INFO	Listening on port 33145
+1527180314746	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527180536163	geckodriver	INFO	geckodriver 0.20.1
+1527180536167	geckodriver	INFO	Listening on 127.0.0.1:35475
+1527180537208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.TBl9cuK2BoiJ"
+*** You are running in headless mode.
+1527180537352	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180537428	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527180537430	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527180537562	Marionette	INFO	Enabled via --marionette
+1527180538356	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180538510	Marionette	INFO	Listening on port 44471
+1527180538522	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527180597794	geckodriver	INFO	geckodriver 0.20.1
+1527180597800	geckodriver	INFO	Listening on 127.0.0.1:56929
+1527180598840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.jVq6UoIy6fj9"
+*** You are running in headless mode.
+1527180598992	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180599070	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527180599072	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527180599198	Marionette	INFO	Enabled via --marionette
+1527180600006	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180600180	Marionette	INFO	Listening on port 34793
+1527180600266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527180695731	geckodriver	INFO	geckodriver 0.20.1
+1527180695736	geckodriver	INFO	Listening on 127.0.0.1:37499
+1527180696781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.24j5sLlpXPp4"
+*** You are running in headless mode.
+1527180696922	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180697000	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527180697002	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527180697128	Marionette	INFO	Enabled via --marionette
+1527180697920	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180698080	Marionette	INFO	Listening on port 35355
+1527180698090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527180759674	geckodriver	INFO	geckodriver 0.20.1
+1527180759679	geckodriver	INFO	Listening on 127.0.0.1:35249
+1527180760732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.Wulo2ragd7Ki"
+*** You are running in headless mode.
+1527180760878	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180760958	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527180760958	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527180761082	Marionette	INFO	Enabled via --marionette
+1527180761856	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527180762016	Marionette	INFO	Listening on port 42879
+1527180762056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527190039043	geckodriver	INFO	geckodriver 0.20.1
+1527190039051	geckodriver	INFO	Listening on 127.0.0.1:37201
+1527190040083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.fNs6jRh4ptfL"
+*** You are running in headless mode.
+1527190040224	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527190040304	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527190040304	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527190040432	Marionette	INFO	Enabled via --marionette
+1527190041212	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527190041372	Marionette	INFO	Listening on port 40009
+1527190041410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527190119513	geckodriver	INFO	geckodriver 0.20.1
+1527190119516	geckodriver	INFO	Listening on 127.0.0.1:48899
+1527190120564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.Xt00kN6oozwP"
+*** You are running in headless mode.
+1527190120716	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527190120794	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527190120796	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527190120920	Marionette	INFO	Enabled via --marionette
+1527190121696	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527190121848	Marionette	INFO	Listening on port 44261
+1527190121874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527190175168	geckodriver	INFO	geckodriver 0.20.1
+1527190175174	geckodriver	INFO	Listening on 127.0.0.1:43473
+1527190176217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.NZnp5bDGhifQ"
+*** You are running in headless mode.
+1527190176368	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527190176446	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527190176448	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527190176576	Marionette	INFO	Enabled via --marionette
+1527190177382	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527190177532	Marionette	INFO	Listening on port 33435
+1527190177628	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4060, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/mozilla-release-239e434d6d2b8e1e2b697c3416d1e96d48fe98e5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527193959103	geckodriver	INFO	geckodriver 0.20.1
+1527193959111	geckodriver	INFO	Listening on 127.0.0.1:54603
+1527193960153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.DZ2CCjngyQcG"
+*** You are running in headless mode.
+1527193960302	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527193960378	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527193960378	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527193960508	Marionette	INFO	Enabled via --marionette
+1527193961316	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527193961468	Marionette	INFO	Listening on port 32953
+1527193961568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527194018934	geckodriver	INFO	geckodriver 0.20.1
+1527194018940	geckodriver	INFO	Listening on 127.0.0.1:52401
+1527194019995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.OcPbvAdKkHjy"
+*** You are running in headless mode.
+1527194020138	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527194020216	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527194020216	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527194020340	Marionette	INFO	Enabled via --marionette
+1527194021102	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527194021262	Marionette	INFO	Listening on port 33979
+1527194021340	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3005, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/mozilla-release-239e434d6d2b8e1e2b697c3416d1e96d48fe98e5/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527194082981	geckodriver	INFO	geckodriver 0.20.1
+1527194082984	geckodriver	INFO	Listening on 127.0.0.1:55921
+1527194084034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.ztM3YM9kALMN"
+*** You are running in headless mode.
+1527194084184	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527194084262	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527194084262	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527194084386	Marionette	INFO	Enabled via --marionette
+1527194085140	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527194085284	Marionette	INFO	Listening on port 37137
+1527194085372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527194214665	geckodriver	INFO	geckodriver 0.20.1
+1527194214672	geckodriver	INFO	Listening on 127.0.0.1:56755
+1527194215721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.mz2fS3usJB2p"
+*** You are running in headless mode.
+1527194215860	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527194215932	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527194215934	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527194216056	Marionette	INFO	Enabled via --marionette
+1527194216800	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527194216948	Marionette	INFO	Listening on port 42711
+1527194217044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527199814140	geckodriver	INFO	geckodriver 0.20.1
+1527199814147	geckodriver	INFO	Listening on 127.0.0.1:41037
+1527199815188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.PetGnsHqWtfL"
+*** You are running in headless mode.
+1527199815342	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527199815420	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527199815420	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527199815548	Marionette	INFO	Enabled via --marionette
+1527199816338	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527199816490	Marionette	INFO	Listening on port 38967
+1527199816500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527200109927	geckodriver	INFO	geckodriver 0.20.1
+1527200109933	geckodriver	INFO	Listening on 127.0.0.1:49659
+1527200110981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.YdYYmllgMjUI"
+*** You are running in headless mode.
+1527200111126	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200111200	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527200111200	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527200111324	Marionette	INFO	Enabled via --marionette
+1527200112084	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200112228	Marionette	INFO	Listening on port 44479
+1527200112306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527200265025	geckodriver	INFO	geckodriver 0.20.1
+1527200265028	geckodriver	INFO	Listening on 127.0.0.1:36815
+1527200266082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.uBNxXkWcljPI"
+*** You are running in headless mode.
+1527200266238	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200266314	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527200266314	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527200266448	Marionette	INFO	Enabled via --marionette
+1527200267224	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200267372	Marionette	INFO	Listening on port 38621
+1527200267396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527200374101	geckodriver	INFO	geckodriver 0.20.1
+1527200374106	geckodriver	INFO	Listening on 127.0.0.1:35273
+1527200375159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.wVCz0L7EMpbS"
+*** You are running in headless mode.
+1527200375310	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200375386	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527200375386	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527200375514	Marionette	INFO	Enabled via --marionette
+1527200376294	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200376448	Marionette	INFO	Listening on port 33061
+1527200376480	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1527200409404	geckodriver	INFO	geckodriver 0.20.1
+1527200409411	geckodriver	INFO	Listening on 127.0.0.1:59501
+1527200410461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.iakNRgHY1EtV"
+*** You are running in headless mode.
+1527200410606	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200410682	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527200410684	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527200410810	Marionette	INFO	Enabled via --marionette
+1527200411590	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200411746	Marionette	INFO	Listening on port 45065
+1527200411776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527200494600	geckodriver	INFO	geckodriver 0.20.1
+1527200494606	geckodriver	INFO	Listening on 127.0.0.1:33939
+1527200495651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.TNeXgxHzxoMQ"
+*** You are running in headless mode.
+1527200495792	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200495872	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: this.loadManifestFromFile :: line 969"  data: no] Stack trace: this.loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:969 < syncLoadManifestFromFile()@resource://gre/modules/addons/XPIProvider.jsm:938 < addMetadata()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1176 < processFileChanges()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1532 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3276 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2182 < callProvider()@resource://gre/modules/AddonManager.jsm:264 < _startProvider()@resource://gre/modules/AddonManager.jsm:740 < startup()@resource://gre/modules/AddonManager.jsm:907 < startup()@resource://gre/modules/AddonManager.jsm:3089 < observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:65
+1527200495872	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1527200495998	Marionette	INFO	Enabled via --marionette
+1527200496760	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1527200496906	Marionette	INFO	Listening on port 44799
+1527200496992	Marionette	WARN	TLS certificate errors will be ignored for this session
